@@ -9,9 +9,9 @@
 
 💬 Ask me about **Web design, development, music**
 
-📫 How to reach me **ivanchenyifan@hotmail.com**
+📫 How to reach me: **ivanchenyifan@hotmail.com**
 
-⚡ Fun fact **I make EDM bangers** @ https://soundcloud.com/theivanez
+⚡ Fun fact: **I make EDM bangers** @ https://soundcloud.com/theivanez
 </div>
 
 <h3 align="left">Connect with me:</h3>
