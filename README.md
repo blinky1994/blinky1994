@@ -5,7 +5,7 @@
 
 <div align="center">
   
-🌱 I’m currently learning **typescript, redux**
+🌱 I’m currently learning **Typescript, Redux**
 
 💬 Ask me about **Web design, development, music**
 
