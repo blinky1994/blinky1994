@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
-<h3 align="center">A passionate web developer from Singapore</h3>
+<h3 align="center">A passionate software developer from Singapore</h3>
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="auto"/>
 
 
 <div align="center">
   
-🌱 I’m currently learning **Typescript, Redux**
+🌱 I’m currently learning **Redux, Data Structures & Algorithm**
 
-💬 Ask me about **Web design, development, music**
+💬 Ask me about **Design, development, music**
 
 📫 How to reach me: **ivanchenyifan@hotmail.com**
 
