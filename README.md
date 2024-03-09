@@ -5,7 +5,7 @@
 
 <div align="center">
   
-🌱 I’m currently learning **Redux, Data Structures & Algorithm**
+🌱 I’m currently learning **AWS, python FastAPI**
 
 💬 Ask me about **Design, development, music**
 
